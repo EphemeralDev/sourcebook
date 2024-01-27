@@ -9,6 +9,7 @@
 ## Networking
 - [Computer networking basics for developers (Ethernet and IP)](https://iximiuz.com/en/posts/computer-networking-101/)
 - [WiFi 101](https://evanmccann.net/wifi-101)
+- [IP addresses & routing](https://jvns.ca/blog/2018/07/24/ip-addresses-routing/)
 
 ## Privacy
 - [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
