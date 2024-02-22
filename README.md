@@ -23,5 +23,8 @@
 ## Privacy
 - [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
 
+## General Hardware/Software
+- [How web works - from keypress to page rendering](https://github.com/vasanthk/how-web-works)
+
 ---
 Thanks to [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#blogspodcastsvideos-toc) for directing me to some of these blogs.
