@@ -19,12 +19,12 @@
 - [Nightmare - intro to binary exploitation / reverse engineering](https://guyinatuxedo.github.io/) | [Repo](https://github.com/guyinatuxedo/nightmare)
 - [Cryptopals crypto challenges](https://cryptopals.com/)
 
-## Privacy
-- [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
-
 ## General Hardware/Software
 - [How a computer runs programs from start to finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
 - [How web works - from keypress to page rendering](https://github.com/vasanthk/how-web-works)
+  
+## Privacy
+- [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
 
 ---
 Thanks to [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#blogspodcastsvideos-toc) for directing me to some of these blogs.
