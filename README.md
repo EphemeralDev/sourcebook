@@ -4,7 +4,6 @@
 - [Reading QR codes without a computer](https://qr.blinry.org/)
 - [Creating a QR code step-by-step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 - [Hello World under the microscope](https://gynvael.coldwind.pl/?id=754)
-- [How a computer runs programs start-finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/)
 - [Decoded: GNU coreutils](https://www.maizure.org/projects/decoded-gnu-coreutils/)
 - [Anatomy of a terminal emulator](https://poor.dev/blog/terminal-anatomy/)
@@ -24,6 +23,7 @@
 - [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
 
 ## General Hardware/Software
+- [How a computer runs programs from start to finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
 - [How web works - from keypress to page rendering](https://github.com/vasanthk/how-web-works)
 
 ---
