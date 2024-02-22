@@ -5,6 +5,7 @@
 - [Creating a QR code step-by-step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 - [Hello World under the microscope](https://gynvael.coldwind.pl/?id=754)
 - [How a computer runs programs start-finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
+- [What every programmer should know about memory](https://lwn.net/Articles/250967/)
 - [Decoded: GNU coreutils](https://www.maizure.org/projects/decoded-gnu-coreutils/)
 - [Anatomy of a terminal emulator](https://poor.dev/blog/terminal-anatomy/)
 - [Architecture of consoles](https://www.copetti.org/writings/consoles/) | [Repo](https://github.com/flipacholas/Architecture-of-consoles)
