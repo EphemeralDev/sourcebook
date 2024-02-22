@@ -14,6 +14,9 @@
 - [Build your own text editor in rust](https://www.flenker.blog/hecto/)
 - [Write an OS in rust](https://os.phil-opp.com/) | [Repo](https://github.com/phil-opp/blog_os)
 
+## Reverse Engineering / Crypto
+- [Intro to reverse engineering with ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
+
 ## Privacy
 - [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
 
