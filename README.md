@@ -17,6 +17,7 @@
 ## Reverse Engineering / Crypto
 - [Intro to reverse engineering with ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Nightmare - intro to binary exploitation / reverse engineering](https://guyinatuxedo.github.io/) | [Repo](https://github.com/guyinatuxedo/nightmare)
+- [Cryptopals crypto challenges](https://cryptopals.com/)
 
 ## Privacy
 - [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
