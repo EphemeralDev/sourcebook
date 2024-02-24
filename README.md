@@ -17,6 +17,7 @@
 ## Reverse Engineering / Crypto
 - [Intro to reverse engineering with ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Nightmare - intro to binary exploitation / reverse engineering](https://guyinatuxedo.github.io/) | [Repo](https://github.com/guyinatuxedo/nightmare)
+- [Live firmware hacking a MIDI keytar - 5:19:19](https://www.youtube.com/watch?v=OHYq3zNR1yo)
 - [Cryptopals crypto challenges](https://cryptopals.com/)
 
 ## General Hardware/Software
