@@ -7,6 +7,8 @@
 - [What every programmer should know about memory](https://lwn.net/Articles/250967/)
 - [Decoded: GNU coreutils](https://www.maizure.org/projects/decoded-gnu-coreutils/)
 - [Anatomy of a terminal emulator](https://poor.dev/blog/terminal-anatomy/)
+- [Internals of an Apple text editor: Part 1](https://papereditor.app/dev)
+  - [Internals of an Apple text editor: Part 2](https://papereditor.app/internals) 
 - [Architecture of consoles](https://www.copetti.org/writings/consoles/) | [Repo](https://github.com/flipacholas/Architecture-of-consoles)
 - [The absolute minimum every software developer must know about unicode in 2023](https://github.com/tonsky/tonsky.me/blob/main/site/blog/unicode/index.md) | [Site](https://tonsky.me/blog/unicode/)
 
