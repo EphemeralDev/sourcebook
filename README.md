@@ -17,6 +17,7 @@
 - [Write an OS in rust](https://os.phil-opp.com/) | [Repo](https://github.com/phil-opp/blog_os)
 
 ## Reverse Engineering / Crypto
+- [Reversing for dummies - x86 assembly and C code (Beginner/ADHD friendly) ](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
 - [Intro to reverse engineering with ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Nightmare - intro to binary exploitation / reverse engineering](https://guyinatuxedo.github.io/) | [Repo](https://github.com/guyinatuxedo/nightmare)
 - [Live firmware hacking a MIDI keytar - 5:19:19](https://www.youtube.com/watch?v=OHYq3zNR1yo)
