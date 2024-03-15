@@ -23,6 +23,12 @@
 - [Live firmware hacking a MIDI keytar - 5:19:19](https://www.youtube.com/watch?v=OHYq3zNR1yo)
 - [Cryptopals crypto challenges](https://cryptopals.com/)
 
+## Networking
+- [HTTP2 and HTTP3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/)
+- [HTTP3 explained](https://http3-explained.haxx.se/en)
+- [The illustrated QUIC connection](https://quic.xargs.org/)
+- [The illustrated TLS 1.3 connection](https://tls13.xargs.org/)
+
 ## General Hardware/Software
 - [How a computer runs programs from start to finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
 - [How web works - from keypress to page rendering](https://github.com/vasanthk/how-web-works)
