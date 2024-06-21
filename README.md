@@ -1,4 +1,4 @@
-## Programming
+# Programming
 - [Visual git guide](http://marklodato.github.io/visual-git-guide/) | [Repo](https://github.com/MarkLodato/visual-git-guide)
 - [Guide to making a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 - [Reading QR codes without a computer](https://qr.blinry.org/)
@@ -12,28 +12,30 @@
 - [Architecture of consoles](https://www.copetti.org/writings/consoles/) | [Repo](https://github.com/flipacholas/Architecture-of-consoles)
 - [The absolute minimum every software developer must know about unicode in 2023](https://github.com/tonsky/tonsky.me/blob/main/site/blog/unicode/index.md) | [Site](https://tonsky.me/blog/unicode/)
 
-### Rust
+## Rust
 - [Build your own text editor in rust](https://www.flenker.blog/hecto/)
 - [Write an OS in rust](https://os.phil-opp.com/) | [Repo](https://github.com/phil-opp/blog_os)
 
-## Reverse Engineering / Crypto
+# Reverse Engineering / Crypto
 - [Reversing for dummies - x86 assembly and C code (Beginner/ADHD friendly) ](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html)
+- [Reverse engineering multi-part guide](https://boricj.net/reverse-engineering/2023/05/01/introduction.html)
 - [Intro to reverse engineering with ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 - [Nightmare - intro to binary exploitation / reverse engineering](https://guyinatuxedo.github.io/) | [Repo](https://github.com/guyinatuxedo/nightmare)
 - [Live firmware hacking a MIDI keytar - 5:19:19](https://www.youtube.com/watch?v=OHYq3zNR1yo)
 - [Cryptopals crypto challenges](https://cryptopals.com/)
 
-## Networking
+# Networking
 - [HTTP2 and HTTP3 explained](https://alexandrehtrb.github.io/posts/2024/03/http2-and-http3-explained/)
 - [HTTP3 explained](https://http3-explained.haxx.se/en)
 - [The illustrated QUIC connection](https://quic.xargs.org/)
 - [The illustrated TLS 1.3 connection](https://tls13.xargs.org/)
 
-## General Hardware/Software
+# General Hardware/Software
 - [How a computer runs programs from start to finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
 - [How web works - from keypress to page rendering](https://github.com/vasanthk/how-web-works)
+- [How terminal works](https://kevroletin.github.io/)
   
-## Privacy
+# Privacy
 - [How NOT to hide your face](https://gynvael.coldwind.pl/?id=343)
 
 ---
