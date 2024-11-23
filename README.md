@@ -29,6 +29,8 @@
 - [HTTP3 explained](https://http3-explained.haxx.se/en)
 - [The illustrated QUIC connection](https://quic.xargs.org/)
 - [The illustrated TLS 1.3 connection](https://tls13.xargs.org/)
+- [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works)
+- [The state of NAT traversal](https://www.zerotier.com/blog/the-state-of-nat-traversal/)
 
 # General Hardware/Software
 - [How a computer runs programs from start to finish](https://cpu.land/) | [Repo](https://github.com/hackclub/putting-the-you-in-cpu)
